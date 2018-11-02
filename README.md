@@ -3,14 +3,15 @@
 We present Starithm, a web-based interface that predicts the physical properties of solar-like stars with the use of machine learning. With inverse stellar modelling, the algorithm is able to determine the unknown characteristics of oscillating stars based on their frequency spectra.
 
 
-Missing Work:
+# Missing Git
 
-*Online Catalog "Stars" - Empty && No user created
+Online Catalog "Stars" - Empty && No user created
 
-*PHP Mailer (External Function)
+PHP Mailer (External Function)
 
-*Simulations.dat && stored training (file too big)
+Simulations.dat && stored training (file too big)
 
+# Research
 
 Science research project by Fox Lane High School Student.
 
